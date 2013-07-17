@@ -1,0 +1,20 @@
+Dimensioned Metric Space:
+
+A metric space* is an ordered pair (M, d) where M is a set (of all Reals) and d is a metric on M
+d: M x M -> {R}
+such that for any x, y, z contained in M
+
+1. d(x,y) >= 0 (non-negative)
+2. d(x,y) = 0 iff x=y (identity of indiscernibles)
+3. d(x,y) = d(y,x) symmetry and
+4. d(x,z) <= d(x,y) + d(y,z)
+
+*Wikipedia
+
+d = root(x1^2 + x2^2 +...+ xn-1^2 + xn^2) where the length of all sides (xi) is 1.
+
+Thus
+
+if i = 1, d = 1
+if i = 2, d = root(2)
+if i = n, d = root(n)
