@@ -28,7 +28,7 @@ Now c, the hypotenuse, is a distance that is directly proportional to the number
 
 When we were talking about distances and Pythagoras we neglected to consider Einstein, in particular, we neglected to mention that lengths expand and contract at different velocities. This problem can be avoided if we take the derivative of both sides of our pythagorean formula:
 
-c=x=n
+c=x=root(n)
 
 where x is length and n is number of dimensions
 
@@ -45,30 +45,29 @@ We find a linear relationship between the number of dimensions and the distance 
 
 Further to this, it is possible to use this interpretation of dimensions to derive the Lorentz factor. If we replace v in the above equation with velocity in terms of the speed of light (v/c):
 
-v/c=1/2n
+v/c=1/2root(n)
 
-c=v2n
+c=v2root(n)
 
 A change in the number of dimensions (n+dn) results in a different velocity v’, then:
 
-c=v'2n+dn
+c=v'2root(n+dn)
 
 Since the speed of light remains constant:
 
 c=c
-v2n=v'2n+dn
-v2n-v'2n=v'2dn
-n(v2-v'2)v'2=dn
+v2root(n)=v'2root(n+dn)
+v^2n-v'^2n=v'^2dn
+n(v^2-v'^2)/v'^2=dn
 
-We assume that dn, the change in n, is negative:
+Assume that dn, the change in n, is negative:
 
-n-dn=1(1-v2v'2)
-n-dn=11-v2v'2
+n/-dn=1/(1-v^2/v'2)
+root(n/-dn)=1/root(1-v^2/v'^2)
 
-The term v’ is the resulting increase in a negative change in the number of dimensions: it is bound by the speed of light: c:
-
-n-dn=11-v2c2
+The term v’ is the resulting increase in a negative change in the number of dimensions: it is bound by the speed of light: c.
 
 We recognize the right side as a version of the Lorentz factor, while the left needs some consideration. If we think back to our special case where the number of dimensions is equal to the square of the hypotenuse then the numerator, n, is understood at distance. The denominator is the change in distance due to the change in the number of dimensions.
 
 Which brings us to the question: what is a dimension? We can think of the dimensions as the basic unit of measurement that also provides a speed limit in our solar system: a limit we call acceleration due to gravity. It was the intention of this study to look at dimensions in a new way: to relate the abstract concept of dimensions to a physical relationship. There are more questions to be answered; hopefully this paper is fruitful for more study.
+
