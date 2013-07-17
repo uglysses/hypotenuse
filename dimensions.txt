@@ -1,0 +1,74 @@
+What is a Dimension?
+
+
+Abstract: To show, using the Pythagorean theorem, a special case where the number of an object’s dimensions is related to its distance. Then to use this to derive a relation between the number of dimensions and a velocity. Using the average velocity using the average velocity of the planets, we find that there is  a linear co-relation between the number of dimensions and the distance from the sun suggesting that this effect of dimensions of space results in a velocity. Further to this, to show a derivation of the Lorentz factor using this interpretation of dimensions.
+
+We take for granted our 3 dimensions (plus on for time). Some posit that there are more than 3+1, such as string theorists, but the visualization of many dimensions is difficult as we are so used to 3. Instead of struggling to visualize many it may be easier to look for a situation where dimensions can be measured.
+
+Let’s begin a thought experiment where we try to explain the nature of dimensions. If we cannot see perspective nor feel around 3-d ofjects, yet have learned about Pythagoras and what a right triangle is. We have the formula:
+
+A^2+B^2=C^2
+
+Classically, the distances of sides A and B are known or are measurable whereas C, the hypotenuse, is the unknown or calculated distance.
+
+We are interested in dimensions: the only way to arrive at the number of them is to count the number of sides (the terms on the left of the equation). Now is a good time to change our notation from A’s and B’s to ‘n’s’ as we are moving into more that 2 dimensions. We will still use ‘c’ for the hypotenuse. For instance, if we have 5 “n” terms we would have:
+
+n1^2+n2^2+n3^2+n4^2+n5^2=c^2
+
+If we don’t know the magnitude of the sides that are in this multidimensional shape we can’t calculate “c” but we can count the number of dimensions: 5.
+
+So long as we try to measure orthogonal sides and calculate the hypotenuse we will have to count the number of dimensions. If there are many dimensions this becomes tedious.
+
+Now let us assume that we live in a universe where there are many many dimensions but we don’t know how many. At the same time we redefine distance as the hypotenuse of  a multidimensional shape. In this special case every side of the shape shall be equal to one unit of length. Varieties in distance are the result in variations of the shape. In this special case we don’t have to count the number of dimensions but we have this:
+
+1^2+1^2+1^2+1^2+1^2=c2
+5=c2
+
+Now c, the hypotenuse, is a distance that is directly proportional to the number of dimensions. We still have a problem of relying on an imperfect measurement of something, but we only measure one distance, the hypotenuse, instead of one for each dimension. The usefulness of this relationship may be lost on lengths of objects, but when we use it to measure velocity something interesting happens.
+
+When we were talking about distances and Pythagoras we neglected to consider Einstein, in particular, we neglected to mention that lengths expand and contract at different velocities. This problem can be avoided if we take the derivative of both sides of our pythagorean formula:
+
+c=x=n
+
+where x is length and n is number of dimensions
+
+v=dx/dt=1/2n dn/dt
+
+Now we have a different relationship between the pythagorean theorem, the number of dimensions and velocity. Distances have disappeared, which is what we wanted because they are rather uncertain to measure. There are many different velocities that we may choose to measure but the celestial bodies will hopefully show us something of the universe.
+
+Here are the results: I have taken the average velocities of the planets (from Wikipedia) and calculated the number of dimensions and plotted the number of dimensions at the radius of each planet. Where
+
+n=1/4v^2
+
+
+We find a linear relationship between the number of dimensions and the distance from the sun.
+
+Further to this, it is possible to use this interpretation of dimensions to derive the Lorentz factor. If we replace v in the above equation with velocity in terms of the speed of light (v/c):
+
+v/c=1/2n
+
+c=v2n
+
+A change in the number of dimensions (n+dn) results in a different velocity v’, then:
+
+c=v'2n+dn
+
+Since the speed of light remains constant:
+
+c=c
+v2n=v'2n+dn
+v2n-v'2n=v'2dn
+n(v2-v'2)v'2=dn
+
+We assume that dn, the change in n, is negative:
+
+n-dn=1(1-v2v'2)
+n-dn=11-v2v'2
+
+The term v’ is the resulting increase in a negative change in the number of dimensions: it is bound by the speed of light: c:
+
+n-dn=11-v2c2
+
+We recognize the right side as a version of the Lorentz factor, while the left needs some consideration. If we think back to our special case where the number of dimensions is equal to the square of the hypotenuse then the numerator, n, is understood at distance. The denominator is the change in distance due to the change in the number of dimensions.
+
+Which brings us to the question: what is a dimension? We can think of the dimensions as the basic unit of measurement that also provides a speed limit in our solar system: a limit we call acceleration due to gravity. It was the intention of this study to look at dimensions in a new way: to relate the abstract concept of dimensions to a physical relationship. There are more questions to be answered; hopefully this paper is fruitful for more study.
